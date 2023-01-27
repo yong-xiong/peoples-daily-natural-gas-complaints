@@ -5,6 +5,7 @@ pictures/
 __pycache__/
 *.py[cod]
 *$py.class
+cnarea20200630.sql
 
 # C extensions
 *.so
