@@ -6,6 +6,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 cnarea20200630.sql
+cnarea2020.sql
 
 # C extensions
 *.so
