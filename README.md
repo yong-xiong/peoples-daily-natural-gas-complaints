@@ -1,1 +1,1 @@
-Complaints about natural gas shortage on People's Daily website. Visiting the deployment website: https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/
+Complaints about natural gas shortage on People's Daily website. Visiting the deployment website: <a href="https://github.com/yong-xiong/peoples-daily-natural-gas-complaints" target="_blank">github.com/yong-xiong/peoples-daily-natural-gas-complaints</a>.
