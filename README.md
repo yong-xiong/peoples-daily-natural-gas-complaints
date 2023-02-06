@@ -14,4 +14,4 @@ By analyzing the posting time, the project was able to plot a line chart, indica
 More than 90% percent of the complaints were "resolved" or at least responded to, by comparing the publishing time and responding time, the project was able to get the average time for local government to reply a post is 21 days, and to get a map showing the average time for each province to address the complaints. 
 
 ## Project page
-Complaints about natural gas shortage on People's Daily website. Visiting the project [website]([https:\\yong-xiong.github.io/peoples-daily-natural-gas-complaints](https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/)).
+Complaints about natural gas shortage on People's Daily website. Visiting the project [website](https:\\yong-xiong.github.io/peoples-daily-natural-gas-complaints](https://yong-xiong.github.io/peoples-daily-natural-gas-complaints/)).
