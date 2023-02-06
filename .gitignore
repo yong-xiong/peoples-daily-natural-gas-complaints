@@ -8,9 +8,9 @@ __pycache__/
 cnarea20200630.sql
 cnarea2020.sql
 cnarea_2020.db
-
+sql_lines
 env/
-
+ignore/
 # C extensions
 *.so
 project 1/
